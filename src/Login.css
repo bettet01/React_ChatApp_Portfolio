@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color: #3e5869; 
+}
+
+.user--login {
+    text-align: center
+}
+
+.login--button {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    font-size: 16px
+  }
